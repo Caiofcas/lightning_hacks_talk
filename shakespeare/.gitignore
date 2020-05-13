@@ -1,1 +1,3 @@
 shakespeare/training_checkpoints/*
+ckpt*
+checkpoint
